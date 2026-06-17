@@ -110,3 +110,10 @@ Skor otomatis tersimpan dalam `taskscape_leaderboard.json` di directory yang sam
 
 ---
 
+## Dokumentasi Kontribusi
+1. Felycia Edelyne Irwan: melakukan generate maze (dinamis dan struktur maze bisa dijangkau oleh pemain), merancang avatar dan splash screen, merubah tema permainan, melatih ghost dengan AI yang beragam, dan melakukan testing
+2. George Ananda: merancang power ups, membuat login dan escape button, melatih ghost dengan AI yang beragam, dan sistem lives yang bertambah setelah menyelesaikan level, dan melakukan testing
+3. Rosselle Amelia Christy: mendesain UI games dan mencari icon yang sesuai dengan penggunaan dalam game, desain logo games, dan melakukan testing
+4. Adrian Lemuel Iskandar: memasukkan hasil dari permainan kedalam leaderboard dan melakukan testing
+5. Ni Gusti Agung Ayu Evangelina Budidarma: menambahkan sound effect pada permainan games dan melakukan testing
+
