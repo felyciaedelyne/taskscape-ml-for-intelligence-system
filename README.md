@@ -2,8 +2,10 @@
 
 TASKSCAPE merupakan permainan maze chase game yang dibangun menggunakan **Python dan Pygame**, tema yang diakses berhubungan dengan kehidupan asli mahasiswa yang dikejar oleh deadline tugas. Mengumpulkan **tugas** berupa dots yang tersebar sepanjang maze yang telah digenerate sambil menghindar agen **Dosen**, yang masing-masing memiliki AI yang berbeda mencakup Informed Search dan bahkan Reinforcement Learning.
 
-Setiap progress melalui tiap semester dirancang dengan kesulitan yang bertahap, survive endless **Skripsi Mode**, dan mengejar posisi pertama dalam local leaderboard.
+Setiap progress melalui tiap semester dirancang dengan kesulitan yang bertahap, survive endless Skripsi Mode, dan mengejar posisi pertama dalam local leaderboard.
+
 ---
+
 ## Kelompok Machine Learning for Intelligence System:
 1. Felycia Edelyne Irwan
 2. George Ananda
@@ -98,10 +100,11 @@ python taskscape_sound.py
 ```
 
 Pastikan folder `assets/` (dan `sfx/` untuk versi suara) terdapat di samping script - semua path asset berhubungan dengan lokasi file utama. Icon atau file sound yang hilang telah diatasi dengan baik dan tidak akan crash dalam permainan.
+
 ---
 
 ## Leaderboard
 Skor otomatis tersimpan dalam `taskscape_leaderboard.json` di directory yang sama dengan script. Setiap records score yang masuk, level yang tercapai, jumlah dots yang diperoleh, dan nama pemain akan disimpan dalam leaderboard (top 20 pemain).
+
 ---
 
-## Dokumentasi Pembagian Tugas
