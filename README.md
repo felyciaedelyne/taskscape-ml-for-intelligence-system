@@ -43,7 +43,8 @@ Setiap progress melalui tiap semester dirancang dengan kesulitan yang bertahap, 
 | 4 | Semester 7 | 19×19 | 4 | 20s |
 | ∞ | SKRIPSI MODE | dynamic, scaling | 4 | 20s |
 
-Setiap menyelesaikan level akan memperoleh bonus points dan extra nyawa.
+Setiap menyelesaikan level akan memperoleh bonus points dan extra nyawa.\
+
 ---
 
 ## Kontrol
@@ -68,6 +69,7 @@ Setiap menyelesaikan level akan memperoleh bonus points dan extra nyawa.
 | 🧲 Tugas Magnet | Menarik dots yang terdekat dalam 13 detik |
 
 Power ups akan muncul dalam periode tertentu dalam maze dan akan menghilang apabila tidak diambil dalam jangka waktu tertentu.
+
 ---
 
 ## Struktur Project
